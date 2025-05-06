@@ -101,9 +101,9 @@ sns.scatterplot(data=df, x='edad_div1', y='edad_div2',
 ```
 
 ## 📊 Key Findings
-1. **Age Pattern**: Most divorces occur between partners aged X-X
-2. **Duration**: Average marriage lasts X years before divorce
-3. **Gender Gap**: Women initiate XX% more divorces than men
+1. **Age Pattern**: Most divorces occur between partners aged 20's
+2. **Duration**: Average marriage lasts 5 years before divorce
+3. **Gender Gap**: Women initiate  more divorces than men
 4. **Education**: Higher education correlates with longer marriages
 5. **Seasonality**: Post-holiday period sees divorce spikes
 
